@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Pilkamu</string>
+
+    <string name="unlock_your">Unlock Your Health Potential with PILKAMU</string>
+
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="gender">Gender</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="weight">Weight (Kg)</string>
+    <string name="height">Height (Cm)</string>
+    <string name="activity_level">Activity Level</string>
+    <string name="select_health_conditions">Select Health Conditions</string>
+    <string name="kolesterol">Kolesterol</string>
+    <string name="asam_lambung">Asam Lambung</string>
+    <string name="diabetes_tipe_1">Diabetes Tipe 1</string>
+    <string name="diabetes_tipe_2">Diabetes Tipe 2</string>
+    <string name="darah_tinggi">Darah Tinggi</string>
+    <string name="darah_rendah">Darah Rendah</string>
+    <string name="usus_buntu">Usus Buntu</string>
+    <string name="register">Register</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="login">Login</string>
+    <string name="signin">Sign-in</string>
+    <string name="sign_in_here">Sign-In here</string>
+    <string name="sign_up_here">Sign-Up here</string>
+    <string name="dont_have_account">Don’t have an account yet?</string>
+    <string name="health_conditions">Health Condition</string>
+    <string name="age">Age</string>
+    <string name="upload_profile_pic">Upload Profile Picture</string>
+
+    <string-array name="gender_options">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="activity_levels">
+        <item>Low</item>
+        <item>Moderate</item>
+        <item>High</item>
+    </string-array>
+
+</resources>

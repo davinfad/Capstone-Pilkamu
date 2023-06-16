@@ -1,0 +1,91 @@
+Food,Calories,Protein,Fat,Sat.Fat,Fiber,Carbs,Kelompok,img url
+cows milk,660,32,40,36,0,48,3,https://storage.googleapis.com/caps-01/cows%20milk.jpg
+Susu rendah lemak,360,36,0,0,0,52,4,https://storage.googleapis.com/caps-01/lowfat%20milk.jpg
+Goats' milk,165,8,10,8,0,11,1,https://storage.googleapis.com/caps-01/goats%20milk.jpg
+Cheese,240,30,11,10,0,6,4,https://storage.googleapis.com/caps-01/cheese.jpg
+Eggs Scrambled or fried,220,13,16,14,0,1,7,https://storage.googleapis.com/caps-01/scrambled%20egg.jpg
+Yolks,120,6,10,8,0,0,1,https://storage.googleapis.com/caps-01/yolks.jpg
+Mayonnaise,110,0,12,5,0,0,6,https://storage.googleapis.com/caps-01/mayonnaise.jpg
+Beef,245,23,16,15,0,0,4,https://storage.googleapis.com/caps-01/beef.jpg
+Hamburger,245,21,17,15,0,0,4,https://storage.googleapis.com/caps-01/beef.jpgg
+Roast beef,390,16,36,35,0,0,3,https://storage.googleapis.com/caps-01/roast%20beef.jpg
+Steak,330,20,27,25,0,0,4,https://storage.googleapis.com/caps-01/steak.jpg
+Corned beef,185,22,10,9,0,0,0,https://storage.googleapis.com/caps-01/corned%20beef.jpg
+Corned beef hash canned,120,12,8,7,0,6,1,https://storage.googleapis.com/caps-01/corned%20beef%20hash%20canned.jpg
+Fried chicken,290,30,18,15,11,0,2,https://storage.googleapis.com/caps-01/fried%20chiken.jpg
+Roasted chicken,290,25,20,16,0,0,4,https://storage.googleapis.com/caps-01/roasted%20chiken.jpg
+Duck,337,19,28,9,0,0,4,https://storage.googleapis.com/caps-01/duck%20meat.jpg
+Lamb,294,25,20,9,0,0,4,https://storage.googleapis.com/caps-01/lamb.jpg
+Crab meat,90,14,2,0,0,1,1,https://storage.googleapis.com/caps-01/lamb.jpg
+Fish sticks fried,200,19,10,5,0,8,0,https://storage.googleapis.com/caps-01/fish%20sticks%20fried.jpg
+Sardines,180,22,9,4,0,0,0,https://storage.googleapis.com/caps-01/sardines.jpg
+Scallops,104,18,8,0,0,10,0,https://storage.googleapis.com/caps-01/roast%20beef.jpgg
+Shrimp,110,23,1,0,0,0,0,https://storage.googleapis.com/caps-01/shrimp.jpg
+Tuna,170,25,7,3,0,0,0,https://storage.googleapis.com/caps-01/tuna.jpg
+Beans,25,1,0,0,0.08,6,6,https://storage.googleapis.com/caps-01/beans.jpg
+Broccoli,45,5,0,0,1.09,8,6,https://storage.googleapis.com/caps-01/broccoli.jpg
+Carrots,45,1,0,0,0.09,10,6,https://storage.googleapis.com/caps-01/carrots.jpg
+Corn,92,3,1,0,0.08,21,6,https://storage.googleapis.com/caps-01/corn.jpg
+French-fried,155,-1,7,3,0.04,20,6,https://storage.googleapis.com/caps-01/french%20fried.jpg
+Potato chips,110,1,7,4,0,10,6,https://storage.googleapis.com/caps-01/potato%20chips.jpg
+Spinach,26,3,0,0,1,3,6,https://storage.googleapis.com/caps-01/spinach.jpg
+Sweet potatoes,155,2,1,0,1,36,6,https://storage.googleapis.com/caps-01/sweet%20potatoes.jpg
+Tomatoes,50,2,0,0,1,9,6,https://storage.googleapis.com/caps-01/tomatoes.jpg
+Tomato juice,50,2,0,0,0.06,10,6,https://storage.googleapis.com/caps-01/tomato%20juice.jpg
+Turnip greens,45,4,1,0,1.08,8,6,https://storage.googleapis.com/caps-01/turnip%20greens.jpg
+Apples,52,0.3,0.2,0,2.4,14,6,https://storage.googleapis.com/caps-01/apples.jpg
+Banana,85,1,0,0,0.09,23,6,https://images.everydayhealth.com/images/diet-nutrition/all-about-bananas-nutrition-facts-health-benefits-recipes-and-more-rm-722x406.jpg
+Blueberries,245,1,0,0,2,65,1,https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//107/MTA-57566680/no-brand_dried-blueberry-250g-buah-bluberi-kering-_full01.jpg
+Cantaloupe,40,1,0,0,2.2,9,6,https://i5.walmartimages.com/asr/fb4c18a5-9367-4770-b99f-7518c72db482.5609c32e87a3110b734aad048bf9fe35.jpeg
+Cherries,100,2,1,0,2,26,6,
+Grapes,70,1,0,0,0.08,16,6,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Table_grapes_on_white.jpg/1200px-Table_grapes_on_white.jpg
+Grape juice,160,1,0,0,0,42,6,
+Lemon juice,30,0,0,0,0,10,6,
+Orange juice,112,2,0,0,0.02,25,6,
+Papaya,75,1,0,0,1.08,18,6,
+Peaches,200,1,0,0,1,52,1,https://www.eatingwell.com/thmb/tjGSrEzQ2kii9C-e76wQ4-adnKk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-store-peaches-ffc593efa21d4defa0abf96c21041414.jpg
+Pears,195,1,0,0,2,50,1,
+Persimmons,75,1,0,0,2,20,6,
+Pineapple,95,0,0,0,0.04,26,6,
+Pineapple juice,120,1,0,0,0.02,32,6,
+Raspberries,100,0,0,0,2,25,6,
+Strawberries,242,1,0,0,1.03,60,1,
+Tangerines,40,1,0,0,1,10,6,
+Watermelon,120,2,1,0,3.06,29,1,
+Bread,247,9,2,0,7,49,5,
+Corn bread ground meal,100,3,4,2,0.3,15,6,
+Cornflakes,110,2,0,0,0.01,25,6,
+Corn grits cooked,120,8,0,0,0.02,27,1,
+Noodles,200,7,2,2,0.01,37,1,
+Oatmeal,150,5,3,2,4.06,26,1,
+Rice,748,15,3,0,1.02,154,4,
+Spaghetti with meat sauce,285,13,10,6,0.5,35,0,
+with tomatoes and cheese,210,6,5,3,0.5,36,1,
+Waffles,240,8,9,1,0.1,30,1,
+Beef soup,100,6,4,4,0.5,11,1,
+chicken soup,75,4,2,2,0,10,6,
+Cream soups,200,7,12,11,1.2,18,7,
+Noodle,115,6,4,3,0.2,13,1,
+Split-pea soup,147,8,3,3,0.5,25,1,
+Tomato soup,175,6,7,6,0.5,22,1,
+Vegetable,80,4,2,2,0,14,6,
+Bread pudding,374,11,12,11,0.2,56,7,
+Cupcake,160,3,3,2,0,31,1,
+Fruit cake,105,2,4,3,0.02,17,6,
+Chocolate creams,130,0,4,4,0,24,6,
+Milk chocolate,290,2,6,6,0.02,44,1,
+Ice cream,250,0,0,12,10,0,5,
+Almonds,425,13,38,28,1.08,13,3,
+coconut sweetened,274,1,20,19,2,26,7,https://img.freepik.com/premium-photo/glass-sweet-coconut-water-coconut-fragrance_51195-5279.jpg
+Peanut butter,300,12,25,17,0.09,9,7,https://www.shutterstock.com/image-photo/glass-jar-creamy-peanut-butter-260nw-716344594.jpg
+Peanuts,290,13,25,16,1.02,9,7,https://bakeitwithlove.com/wp-content/uploads/2022/09/peanut-substitute-sq.jpg
+Tea,4,0,0,0,0,1,6,https://image.shutterstock.com/image-photo/glass-cup-black-tea-isolated-260nw-1669673026.jpg
+Nasi merah,111,2.6,0.9,0,1.8,23.5,6,https://media.suara.com/pictures/970x544/2018/06/26/65875-nasi-merah.jpg
+bubur ayam,80,4,2,3,1,15,6,https://cdn-2.tstatic.net/tribunnews/foto/bank/images/resep-bubur-ayam1.jpg
+rawon,128,10.4,5.8,2.3,0.6,9.6,1,https://pingpoint.co.id/media/images/RAWON.original.jpg
+tahu,144,16,8,1,0.6,3.7,0,https://watermark.lovepik.com/photo/20211209/large/lovepik-crispy-tofu-picture_501715227.jpg
+tempe,192,19,11,2,5,9,5,https://www.shutterstock.com/image-photo/raw-tempeh-tempe-slices-white-260nw-1791237866.jpg
+bakso,200,15,10,4,0,5,0,https://st2.depositphotos.com/1354142/9736/i/950/depositphotos_97361778-stock-photo-bakso-indonesian-meatball-soup-with.jpg
+pepes ikan,200,20,10,2,0,1,0,https://www.esdenews.com/storage/2022/10/begini-loh-cara-mudah-membuat-menu-pepes-ikan-mas-bumbu-kuning40_700.jpg
+yoghur,61,3.5,3.3,2.1,0,4.7,6,
+capcay,50,2,0.5,1,1,10,6,https://cdn2.tstatic.net/manado/foto/bank/images/resep-capcay-goreng-lada-hitam.jpg
